@@ -278,4 +278,15 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the Google Maps Places API to power local lead lists, market research, and place data for your product or AI agent.*
 
+## Featured Tasks
+
+Ready-to-run examples on the Apify Store, each targeting one local-data use case:
+
+- [Extract local business leads from Google Maps by API](https://apify.com/johnvc/google-maps-places-api/examples/extract-local-business-leads-from-google-maps-by-api?fpr=9n7kx3)
+- [Extract phone numbers from Google Maps by zip code](https://apify.com/johnvc/google-maps-places-api/examples/extract-phone-numbers-from-google-maps-by-zip-code?fpr=9n7kx3)
+- [Find roofing contractor leads in Tampa with phone numbers](https://apify.com/johnvc/google-maps-places-api/examples/find-roofing-contractor-leads-in-tampa-with-phone-numbers?fpr=9n7kx3)
+- [Build a list of med spas in Miami with phone numbers](https://apify.com/johnvc/google-maps-places-api/examples/build-a-list-of-med-spas-in-miami-with-phone-numbers?fpr=9n7kx3)
+- [Generate local leads in Claude via Google Maps MCP](https://apify.com/johnvc/google-maps-places-api/examples/generate-local-leads-in-claude-via-google-maps-mcp?fpr=9n7kx3)
+- [Export Google Maps Places to CSV](https://apify.com/johnvc/google-maps-places-api/examples/export-google-maps-places-to-csv?fpr=9n7kx3)
+
 Last Updated: 2026.06.15
